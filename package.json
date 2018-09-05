@@ -1,12 +1,13 @@
 {
-  "name": "card",
+  "name": "brucard",
   "version": "1.0.0",
-  "description": "",
+  "description": "Biblioteca validar cartão",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
+    "eslint": "^5.5.0",
     "nyc": "^13.0.1"
   },
   "devDependencies": {
